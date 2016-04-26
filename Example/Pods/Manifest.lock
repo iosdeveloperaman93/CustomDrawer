@@ -1,0 +1,14 @@
+PODS:
+  - CustomDrawer (0.1.0)
+
+DEPENDENCIES:
+  - CustomDrawer (from `../`)
+
+EXTERNAL SOURCES:
+  CustomDrawer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CustomDrawer: 6f1ec494b80b72de3d22b8f28c0aed9145f86b0f
+
+COCOAPODS: 0.39.0

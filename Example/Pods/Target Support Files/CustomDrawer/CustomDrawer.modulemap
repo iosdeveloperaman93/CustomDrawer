@@ -1,0 +1,6 @@
+framework module CustomDrawer {
+  umbrella header "CustomDrawer-umbrella.h"
+
+  export *
+  module * { export * }
+}

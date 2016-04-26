@@ -1,0 +1,6 @@
+framework module Pods_CustomDrawer_Example {
+  umbrella header "Pods-CustomDrawer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
