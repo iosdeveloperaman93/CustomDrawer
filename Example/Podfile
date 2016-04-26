@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CustomDrawer_Example', :exclusive => true do
+  pod 'CustomDrawer', :path => '../'
+end
+
+target 'CustomDrawer_Tests', :exclusive => true do
+  pod 'CustomDrawer', :path => '../'
+
+  
+end
